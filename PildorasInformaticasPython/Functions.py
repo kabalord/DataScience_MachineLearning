@@ -23,3 +23,10 @@ SumaWithParameters(5,8)
 SumaWithParameters(2,3)
 SumaWithParameters(35,358)
 
+#function with return
+def SumaConReturn(num1,num2):
+    return num1 + num2
+
+variable = SumaConReturn(5,6)
+print(variable)
+    

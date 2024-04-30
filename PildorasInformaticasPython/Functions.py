@@ -9,7 +9,6 @@ Python functions can have parameters / arguments.
 Python functions can return values.
 
 Functions are also called 'methods' when they are defined within a class.
-
 '''
 
 '''
@@ -36,6 +35,7 @@ Execution
 function_name()
 
 function_name(parameters)
+'''
 
 #function begin
 def function():

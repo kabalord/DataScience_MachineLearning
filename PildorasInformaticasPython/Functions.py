@@ -15,7 +15,6 @@ def Suma():
 Suma()
 
 #with parameters
-
 def SumaWithParameters(num1, num2):
     print(num1+num2)
 
@@ -30,3 +29,11 @@ def SumaConReturn(num1,num2):
 variable = SumaConReturn(5,6)
 print(variable)
     
+#function with return in variable
+def SumaConReturn(num1,num2):
+    result = num1 + num2
+    
+    return result
+
+variable = SumaConReturn(15,16)
+print(variable)

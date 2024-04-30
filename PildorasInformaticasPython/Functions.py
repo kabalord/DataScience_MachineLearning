@@ -18,8 +18,24 @@ Code reuse (when or if necessary)
 '''
 
 '''
+Sintaxis
+
+def function_name():
+    - function instructions
+    - return(optional)
+    
+
+def function_name(parametros):
+    - function instructions
+    - return(optional)    
+'''
 
 '''
+Execution
+
+function_name()
+
+function_name(parameters)
 
 #function begin
 def function():

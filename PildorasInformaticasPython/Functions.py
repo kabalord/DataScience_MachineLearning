@@ -13,6 +13,7 @@ Functions are also called 'methods' when they are defined within a class.
 
 '''
 Utility
+
 Code reuse (when or if necessary)
 '''
 

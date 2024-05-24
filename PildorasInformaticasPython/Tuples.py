@@ -5,7 +5,7 @@ Tuples are immutable lists, i.e. they cannot be modified after their creation.
 
     - They do not allow adding, deleting, moving elements, etc. (no append, extend, remove).
     - They do allow to extract portions, but the result of the extraction is a new tuple.
-    - They do not allow searching (no index).
+    - They do not allow searching (no index) but possible in Python 3
     - They do allow to check if an element is in the tuple.
     
 Advantages of tuples over lists:

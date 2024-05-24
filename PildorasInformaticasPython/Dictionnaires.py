@@ -3,9 +3,8 @@
 '''
 What are dictionaries ?
 
-A data structure that allows us to store different 
-types of calores (integers, decimal text strings) 
-and even lists and other dictionaries.
+A data structure that allows us to store values of different types.
+(integers, decimal text strings) and even lists, tuples and other dictionaries.
 
 The main feature of dictionaries is that data is stored in association with a key, 
 so that for each stored item a key:value association is created.

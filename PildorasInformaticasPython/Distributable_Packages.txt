@@ -1,0 +1,22 @@
+# PAQUETES DISTRIBUIBLES
+
+"""
+- Para generar un paquete distribuible que me permita llamarlo desde donde quiera.
+Lo que hay que hacer es crear un archivo setup.py en la raiz del proyecto
+
+para instalar al final se debe ejecutar el comando :
+ python .\setup.py sdist
+Ver archivo setup.py
+"""
+
+
+"""
+Para hacer la instalacion ir a la carpeta dist creada con el anterior comando y ejecutar el comando :
+pip3 install .\paquete_distribuible-1.0.tar.gz
+"""
+
+
+"""
+- Para desinstalar el paquete ejecutar el comando desde cualquier ruta :
+pip3 uninstall paquete_distribuible (name="paquete_distribuible") from setup.py
+"""
